@@ -9,10 +9,22 @@ Here are some facts about me:
 - 🔭 I’m currently working on software & data engineering problems
 - 🌱 I’m currently learning about data driven architectures, reactive principles and streaming analytics (this may vary, look again in a couple of months)
 - 💬 Ask me about software design, clean code or enterprise level good practices
-- 📫 How to reach me: you can contact me in [telegram](https://t.me/alejocas)
 - ✨ Make education accesible to all
 - ✌ Don't underestimate the knowledge of others
-- ⚡ My preferred languages are Scala & JavaScript; but I also know how to write good (in terms of mantainable and scalable) Java, Python and SQL
+
+## ⚡ Computing languages
+### Programming languages
+- Scala
+- JavaScript
+- Java
+- Python
+
+### Another languages
+- SQL
+
+## 📫 How to reach me
+You can contact me in:
+- [telegram](https://t.me/alejocas)
 
 <!--
 **alejocas/alejocas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
