@@ -12,7 +12,11 @@ Here are some facts about me:
 - ✨ Make education accesible to all
 - ✌ Don't underestimate the knowledge of others
 
-## ⚡ Computing languages
+## ⚡ Languages
+### I speak
+- Spanish (native)
+- English (good)
+
 ### Programming languages
 - Scala
 - JavaScript
